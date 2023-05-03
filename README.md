@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://khanhtruong0808.github.io/interactive-rating-component-main/
+- Solution URL: https://interactive-rating-component-main-khaki-gamma.vercel.app/
 
 ### Built with
 
